@@ -1,20 +1,7 @@
 ---
 layout: page
-title: Analysis of Economic Data
+title: Me
 ---
 
-##  Projects
-<a> 
-<img src="IMG_4923.JPEG" alt="pmb" width="250"/>
-</a>
 
-## Contact Information 
-
-Mike Margolis <br/>
-Master's Degree in Applied Economics <br/>
-Florida State University <br/>
-Tallahassee, Florida, 32306 <br/>
-
-[Email:mm17c@my.fsu.edu](mailto:mm17c@my.fsu.edu)
-
-[Web Page:](https://github.com/MikeMargolis1/MikeMargolis1.github.io)
+A graduate of FSU with a Master's degree in Applied Economics and an undergraduate Bachelor of Science degree in Economics and a Minor in communications. Originally from New York I have lived in Tallahassee for 5 years. I thoroughly enjoyed my time at FSU and I am thankful for all the wonderful professors and peers I had along the way. Economics is my passion and I can't wait to continue my journey.
