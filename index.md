@@ -5,16 +5,16 @@ title: Analysis of Economic Data
 
 ##  Projects
 <a> 
-<img src="pmb2.png" alt="pmb" width="250"/>
+<img src="IMG_4923.JPEG" alt="pmb" width="250"/>
 </a>
 
 ## Contact Information 
 
-Paul Beaumont<br/>
-Department of Economics<br/>
+Mike Margolis <br/>
+Master's Degree in Applied Economics <br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
+[Email:mm17c@my.fsu.edu](mailto:mm17c@my.fsu.edu)
 
-[Web Page:](https://paulmbeaumont.netlify.app/)
+[Web Page:](https://github.com/MikeMargolis1/MikeMargolis1.github.io)
