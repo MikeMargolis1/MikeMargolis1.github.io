@@ -9,4 +9,4 @@ Project | Description | HTML Output | Rmd Code
 --- | --- | --- | ---
 Forecasting Average | Forecasting Inflation | [html](https://MikeMargolis1.github.io/ForecastingProject1/) | [code](https://github.com/MikeMargolis1/ForecastingProject1)
 VAR Model | Oil Prices and Long-Term Treasury Yields | [html](https://MikeMargolis1.github.io/VarModel/) | [code](https://github.com/MikeMargolis1/VarModel)
-Markowitz Crypto Analysis | Using Markowitz Solutions to Determine Optimal Portfolio Weights for Crypto Currencies | [html](https://MikeMargolis1.github.io/MPT-fpr-Crypto/) | [code](https://github.com/MikeMargolis1/MPT-fpr-Crypto)
+Markowitz Crypto Analysis | Using Markowitz Solutions to Determine Optimal Portfolio Weights for Cryptocurrencies | [html](https://MikeMargolis1.github.io/MPTCrypto/) | [code](https://github.com/MikeMargolis1/MPTCrypto)
