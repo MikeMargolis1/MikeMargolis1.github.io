@@ -6,8 +6,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # this and add the path to the pages in order as they should show up
 header_pages:
  - projects.md
- - about.md
  - me.md
+ - about.md
 
 # Build settings
 theme: minima
