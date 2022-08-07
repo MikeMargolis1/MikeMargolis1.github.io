@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Here are examples of research projects generated with R Studio using TidyR and RMarkdown.
+Here are examples of research projects generated with R Studio using RMarkdown.
 
 Project | Description | HTML Output | Rmd Code
 --- | --- | --- | ---
