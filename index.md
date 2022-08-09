@@ -16,4 +16,4 @@ Tallahassee, Florida, 32306 <br/>
 
 [Email:mikemargolis20@gmail.com](mailto:mikemargolis20@gmail.com)
 
-[Web Page:](https://github.com/MikeMargolis1/MikeMargolis1.github.io)
+[GitHub Page:](https://github.com/MikeMargolis1/MikeMargolis1.github.io)
