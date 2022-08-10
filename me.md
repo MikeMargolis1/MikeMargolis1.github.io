@@ -44,7 +44,7 @@ A graduate of FSU with a Master's degree in Applied Economics and an undergradua
 - Cooking
 - Programming
 - Reading (Economics/Finance, History, Psychology, Philosophy, Memoirs/Autobiography)
-- Advanced Sudoku 
+- Advanced Sudoku
 
 
 
